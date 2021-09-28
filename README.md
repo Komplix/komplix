@@ -1,2 +1,3 @@
-# komplix
-Default Empty Repository
+# Komplix
+
+Not much to see here, yet. But please stay tuned.
